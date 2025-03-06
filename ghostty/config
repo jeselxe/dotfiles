@@ -1,0 +1,14 @@
+theme = catppuccin-macchiato
+font-family = "MesloLGS Nerd Font Mono"
+command = /opt/homebrew/bin/nu --config /Users/jesusgallego/.config/nushell/config.nu
+
+macos-icon = custom-style
+macos-icon-frame = aluminum
+macos-icon-ghost-color = #f3f4f0
+macos-icon-screen-color = #56EF98
+
+copy-on-select = true
+mouse-hide-while-typing = true
+
+keybind = cmd+shift+t=toggle_quick_terminal
+keybind = global:f15=toggle_quick_terminal

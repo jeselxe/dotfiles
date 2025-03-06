@@ -1,0 +1,22 @@
+{
+  "title": "eject → Accent (⌥E)",
+  "rules": [
+    {
+      "description": "eject → Accent (⌥E)",
+      "manipulators": [
+        {
+          "from": {
+            "consumer_key_code": "eject"
+          },
+          "to": [
+            {
+              "key_code": "e",
+              "modifiers": ["left_option"]
+            }
+          ],
+          "type": "basic"
+        }
+      ]
+    }
+  ]
+}
