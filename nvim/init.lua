@@ -1,4 +1,5 @@
 require('plugins.lazy')
 require('options')
+require('mappings')
 require('plugins.telescope')
 require('plugins.lualine')
