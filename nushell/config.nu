@@ -920,6 +920,8 @@ alias gstd = git stash drop
 alias gstl = git stash list
 alias gst = git status
 
+alias v = nvim
+
 source ~/.config/nushell/env.nu
 source ~/.zoxide.nu
 source ~/.cache/carapace/init.nu
